@@ -2,4 +2,4 @@
 
 ## PCDE-Activity-9.1 and Activity 9.2: GitHub Portfolio
 
-This repository exists only for the purpose of the online DE course. 
+This repository exists only for the purpose of the DE course. 
